@@ -1,0 +1,6 @@
+<h1>This is the placeholder for de Recipes index action</h1>
+<% @recipe.each do |recipe| %>
+<h2>
+  <%= link_to recipe.title, recipe %>
+</h2>
+<%end%>

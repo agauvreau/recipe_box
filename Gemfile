@@ -22,7 +22,12 @@ gem 'turbolinks'
 gem 'jbuilder', '~> 2.0'
 # bundle exec rake doc:rails generates the API under doc/api.
 gem 'sdoc', '~> 0.4.0', group: :doc
-
+# this is to simplefy forms
+gem 'simple_form', '~> 3.2', '>= 3.2.1'
+#bootstrap links
+gem 'bootstrap-sass', '~> 3.3', '>= 3.3.6'
+#easier insertion of pictures in web app
+gem "paperclip", "~> 4.3"
 # Use ActiveModel has_secure_password
 # gem 'bcrypt', '~> 3.1.7'
 

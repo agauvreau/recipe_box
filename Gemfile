@@ -28,6 +28,9 @@ gem 'simple_form', '~> 3.2', '>= 3.2.1'
 gem 'bootstrap-sass', '~> 3.3', '>= 3.3.6'
 #easier insertion of pictures in web app
 gem "paperclip", "~> 4.3"
+#makes it easy to use nested forms
+gem 'cocoon', '~> 1.2', '>= 1.2.6'
+
 # Use ActiveModel has_secure_password
 # gem 'bcrypt', '~> 3.1.7'
 

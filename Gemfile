@@ -30,6 +30,8 @@ gem 'bootstrap-sass', '~> 3.3', '>= 3.3.6'
 gem "paperclip", "~> 4.3"
 #makes it easy to use nested forms
 gem 'cocoon', '~> 1.2', '>= 1.2.6'
+#user authentication
+gem 'devise', '~> 3.5', '>= 3.5.4'
 
 # Use ActiveModel has_secure_password
 # gem 'bcrypt', '~> 3.1.7'
